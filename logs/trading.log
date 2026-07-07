@@ -1,0 +1,3 @@
+formatter = logging.Formatter(
+    "%(asctime)s | %(levelname)s | %(message)s"
+)2026-07-07 14:41:48,380 | INFO | Logging system is working!
